@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+📫 How to reach me: Whatsapp     :+6281368308110
+                    social media : satriadinata2@gmail.com
+🌱 I’m currently learning javascript for web development, more about laravel, and React-native
 <!--
 **satriadinataaa/satriadinataaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
