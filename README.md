@@ -1,5 +1,5 @@
 ### Hi there 👋
-📫 How to reach me: Whatsapp     :+6281368308110<br>
+📫 How to reach me: <br>Whatsapp     :+6281368308110<br>
                     social media : satriadinata2@gmail.com<br>
 🌱 I’m currently learning javascript for web development, more about laravel, and React-native
 <!--
