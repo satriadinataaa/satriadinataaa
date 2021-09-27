@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriadinataaa)](https://github.com/anuraghazra/github-readme-stats)
+
+
 📫 How to reach me: 
                     social media : satriadinata2@gmail.com<br>
 🌱 I’m currently learning javascript for web development, more about laravel, and React-native
