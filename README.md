@@ -12,8 +12,8 @@ Currently, working in *Software Engineering Division* as a ***Back End Developer
 - React Native
 - Firebase
 - 
- 📫 How to reach me: 
-##satriadinata2@gmail.com
+## 📫 How to reach me: 
+satriadinata2@gmail.com
                     
 ## 🌱 I’m currently learning more about:
     - Javascript for web development 
