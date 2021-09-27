@@ -2,10 +2,24 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriadinataaa)](https://github.com/anuraghazra/github-readme-stats)
 
+## 💼 Career
+Currently, working in *Software Engineering Division* as a ***Back End Developer*** at Lyrid Prima Indonesia. Helping Lyrid to build application services for our customers.
 
-📫 How to reach me: 
+## 💻 Experiences
+- PHP
+- GIT (VCS)
+- JavaScript For Backend (Express JS)
+- React Native
+- Firebase
+- 
+## 📫 How to reach me: 
                     social media : satriadinata2@gmail.com<br>
-🌱 I’m currently learning javascript for web development, more about laravel, and React-native
+                    
+## 🌱 I’m currently learning more about:
+    - Javascript for web development 
+    - Design Pattern
+    - CI/CD
+   
 <!--
 **satriadinataaa/satriadinataaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
