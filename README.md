@@ -13,7 +13,7 @@ Currently, working in *Software Engineering Division* as a ***Back End Developer
 - Firebase
 - 
 ## 📫 How to reach me: 
-                    social media : satriadinata2@gmail.com<br>
+satriadinata2@gmail.com
                     
 ## 🌱 I’m currently learning more about:
     - Javascript for web development 
