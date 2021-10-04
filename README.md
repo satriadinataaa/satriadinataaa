@@ -11,7 +11,6 @@ Currently, working in *Software Engineering Division* as a ***Back End Developer
 - JavaScript For Backend (Express JS)
 - React Native
 - Firebase
-- 
 ## 📫 How to reach me: 
 satriadinata2@gmail.com
                     
