@@ -5,14 +5,16 @@
 ## 💼 Career
 Currently, working in *Software Engineering Division* as a ***Back End Developer*** at Lyrid Prima Indonesia. Helping Lyrid to build application services for our customers.
 
-<img src="https://github-profile-trophy.vercel.app/?username=satriadinataaa&theme=tokyonight&margin-w=15" />
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriadinataaa&count_private=true&theme=radical" alt="ashok" />
 ## 💻 Experiences
 - PHP
 - GIT (VCS)
 - JavaScript For Backend (Express JS)
 - React Native
 - Firebase
+
+<img src="https://github-profile-trophy.vercel.app/?username=satriadinataaa&theme=tokyonight&margin-w=15" />
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriadinataaa&count_private=true&theme=radical" alt="ashok" />
+
 ## 📫 How to reach me: 
 satriadinata2@gmail.com
                     
