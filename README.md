@@ -19,7 +19,7 @@ satriadinata2@gmail.com
     - Design Pattern
     - CI/CD
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=satriadinataaa](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=satriadinataaa&theme=tokyonight&margin-w=15" />
 
    
 <!--
