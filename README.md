@@ -18,6 +18,9 @@ satriadinata2@gmail.com
     - Javascript for web development 
     - Design Pattern
     - CI/CD
+    
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
    
 <!--
 **satriadinataaa/satriadinataaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
