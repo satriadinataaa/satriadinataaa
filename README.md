@@ -9,7 +9,7 @@ Currently, working at PT Bank Raya Indonesia TBk.
 - PHP
 - GIT (VCS)
 - JavaScript For Backend (Express JS)
-- React Native
+- React Native & Flutter
 - Firebase
 
 <img src="https://github-profile-trophy.vercel.app/?username=satriadinataaa&theme=tokyonight&margin-w=15" />
@@ -19,6 +19,7 @@ Currently, working at PT Bank Raya Indonesia TBk.
 satriadinata2@gmail.com
                     
 ## 🌱 I’m currently learning more about:
+    - Flutter
     - Javascript for web development 
     - Design Pattern
     - CI/CD
