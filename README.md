@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriadinataaa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Career
-Currently, working in *Software Engineering Division* as a ***Back End Developer*** at Lyrid Prima Indonesia. Helping Lyrid to build application services for our customers.
+Currently, working at PT Bank Raya Indonesia TBk.
 
 ## 💻 Experiences
 - PHP
